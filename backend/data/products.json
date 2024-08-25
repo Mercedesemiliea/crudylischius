@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "AI Robot Alpha",
+        "price": 199.99,
+        "description": "Advanced AI for all your needs.",
+        "image": "alpha.jpg"
+    }
+]
