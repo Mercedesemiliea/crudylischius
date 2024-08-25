@@ -1,9 +1,34 @@
 [
     {
         "id": 1,
-        "name": "AI Robot Alpha",
-        "price": 199.99,
-        "description": "Advanced AI for all your needs.",
-        "image": "alpha.jpg"
+        "name": "Alpha ",
+        "last_name": "Nova Astralyte",
+        "description": "Alpha Nova is the epitome of refined AI, engineered for those who seek the perfect blend of technology and elegance. It elevates your daily routines, turning the ordinary into the exceptional with effortless precision.",
+        "price": 1999.99,
+        "image": "public/img/ai-generated-8416232_1280.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Beta ",
+        "last_name": "Luna Luminite",
+        "description": "Beta specializes in personal care, offering companionship, monitoring health, and ensuring your well-being.",
+        "price": 2499.99,
+        "image": "public/img/ai-generated-8416231_1280.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Omicron Gamma ",
+        "last_name": "Helix",
+        "description": "Omicron is a multifunctional AI robot, ideal for security, smart home integration, and advanced home automation.",
+        "price": 2999.99,
+        "image": "public/img/2151254544.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Zeta & Eta ",
+        "last_name": "Zeta Illumin & Eta Nocturnalis",
+        "description": "Zeta is not just any AI, along with Eta, they represent the pinnacle of artificial intelligence evolution. As the first artificial twins to ever exist, they are a marvel of innovation and design, created for those who seek something truly extraordinary.",
+        "price": 3499.99,
+        "image": "public/img/twins.png"
     }
 ]
